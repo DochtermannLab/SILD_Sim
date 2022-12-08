@@ -1,1 +1,2 @@
 # SILD_Sim
+Provides simulation code demonstrating how genetic correlations can emerge from the effects of correlational selection. A population in linkage equilibrium away from an optima will initially evolve a genetic correlation aligned with the landscape. If genetic variation is depleted while the population is still relatively far from the optima, a genetic correlatoin orthogonal to the landscape can evolve. 
